@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Bamgbopa Opemipo
+**Aspiring SOC Analyst | Security Monitoring • SIEM • Log Analysis**
 
-<!--
-**opemipo-soc-analyst/opemipo-soc-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio!  
+Here, I showcase my practical experience in Security Operations — including alert investigations from TryHackMe and LetsDefend, and soon, home lab projects.
 
-Here are some ideas to get you started:
+🔍 **Areas I’m focusing on:**
+- SOC alert triage and investigation
+- SIEM log analysis
+- Incident documentation
+- True vs False positive classification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Portfolio includes:
+- TryHackMe SOC reports
+- LetsDefend incident investigations
+- Soon: Home Lab setups & analysis
+
+📫 Contact:
+LinkedIn: *[www.linkedin.com/in/bamgbopa-opemipo]*  
+Email: *[opemipobamgbopa1@gmail.com]*
